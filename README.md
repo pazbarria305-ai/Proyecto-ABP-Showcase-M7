@@ -36,3 +36,6 @@ npm run dev
 ```sh
 npm run build
 ```
+## 🚀 Demo en vivo
+
+[👉 Ver proyecto en Firebase](https://product-showcase-g2.web.app/)
